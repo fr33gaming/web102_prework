@@ -5,22 +5,35 @@ body {
     background-color: #758190;
 }
 
+#nav-bar {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    row-gap: 10px;
+    margin-right: 0%;
+}
+
 #tentacles {
-    width: 50px;
+    width: 70px;
 }
 
 .header {
     display: flex;
+    justify-content: flex-start;
     background-color: lightblue;
-    padding: 1%;
-    align-items: center;
     margin-left: -10px;
     margin-right: -10px;
-    margin-top: -10px;
+  
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -64,6 +77,9 @@ body {
 
 #button-container {
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
@@ -72,4 +88,19 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#search-bar {
+    font-family: 'Cabin';
+    border: none;
+    border-radius: 7px;
+    height: 35px;
+    position: relative;
+    padding-left: 10px;
+}
+
+#search-button {
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 5px;
 }
