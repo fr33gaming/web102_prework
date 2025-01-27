@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
+* [X] Added a search bar to allow the user to search through different video games.
+* [X] Added a navigation bar on the top of the website to allow for quick access to different portions of the screen.
 
 ## Video Walkthrough
 
@@ -38,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Alexandro Hernandez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
