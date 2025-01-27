@@ -38,6 +38,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+The Overall process was pretty simple. The portions that I found challenging was incorporating Javascript into the website. In the previous course we only touched the surface. One challenge that I experienced was being able to CSS to style various parts of the website. When using some flexbox features I was met with unexpected results. It took me some time to play around with some things and get the results that I wanted. 
+
 ## License
 
     Copyright 2025 Alexandro Hernandez
