@@ -25,9 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://www.loom.com/embed/10b0ba190f8245d99cb38147ee86d1bc?sid=ac62ab43-9416-433b-a561-b9401fc4f5eb" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<iframe src="https://www.loom.com/embed/10b0ba190f8245d99cb38147ee86d1bc?sid=ac62ab43-9416-433b-a561-b9401fc4f5eb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c
 
