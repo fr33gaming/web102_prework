@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-
+Website Walkthrough for CodePath Pre-Work - Watch Video
 
 https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c
 
