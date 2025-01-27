@@ -27,6 +27,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c
+
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom
 <!-- Recommended tools:
