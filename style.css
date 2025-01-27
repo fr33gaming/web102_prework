@@ -8,9 +8,16 @@ body {
 #nav-bar {
     list-style-type: none;
     display: flex;
+    flex-direction: row;
     align-items: center;
-    row-gap: 10px;
-    margin-right: 0%;
+    justify-content: space-evenly;
+    width: 380px;
+   
+}
+
+.navbar-item:link, .navbar-item:visited {
+    text-decoration: none;
+    color: black;
 }
 
 #tentacles {
@@ -96,11 +103,16 @@ button {
     border-radius: 7px;
     height: 35px;
     position: relative;
-    padding-left: 10px;
+    padding-left: 0.5rem;
+    padding-right: 2.0rem;
 }
 
 #search-button {
     position: absolute;
     margin-left: -30px;
     margin-top: 5px;
+}
+
+#searchbar-container {
+    margin-left: 11px;
 }

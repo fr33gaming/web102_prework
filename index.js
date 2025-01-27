@@ -157,18 +157,40 @@ function showAllGames() {
 
 }
 
-function searchForGame() {
+function searchForGame(event) {
 
-    const searchTerm = document.getElementById("search-bar").value;
+    let searchTerm = document.getElementById("search-bar").value;
 
-    console.log(searchTerm);
+    // Used for testing purposes
+    // console.log(searchTerm);
 
+    // filter through the list of objects 
+    let foundGame = GAMES_JSON.filter( (game) => game.name.toLowerCase().includes(searchTerm)); // using the filter option the user can enter a portion of a game title and return any matching game titles that include that word
+
+    // Used for testing purposes
+    // console.log(foundGame);
+
+    // clear any other games that are visible on the screen 
+    deleteChildElements(gamesContainer);
+
+    //only send the games that were found using the filter
+    addGamesToPage(foundGame);
+
+    // clears the search bar when the search button is pressed or enter is pressed on the keyboard
+    document.getElementById("search-bar").value = "";
 
 }
 
+// user can submit their search by click the search button or pressing enter on the keyboard
 const searchButton = document.getElementById("search-button");
+const searchBar = document.getElementById("search-bar");
 
-searchButton.addEventListener("click", searchForGame)
+searchButton.addEventListener("click", searchForGame);
+searchBar.addEventListener("keydown", function(event) {
+    if(event.key == "Enter") {
+        searchForGame(event);
+    }
+});
 
 // select each button in the "Our Games" section
 const unfundedBtn = document.getElementById("unfunded-btn");
@@ -202,7 +224,7 @@ const displayStr = `${numOfUnfundedGames.length > 1 ? `A total of $${totalRaised
                                                `A total of $${totalRaised.toLocaleString('en-US')} has been raised for ${totalGames.length} games. Currently, ${numOfUnfundedGames.length} game remains unfunded. We need your help funding these amazing games!`
                     }`;
 
-console.log(displayStr);
+// console.log(displayStr);
 
 // create a new DOM element containing the template string and append it to the description container
 
@@ -226,7 +248,7 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
 
 // use destructuring and the spread operator to grab the first and second games
 
-console.log(sortedGames);
+//console.log(sortedGames);
 
 let [topFundedGame, runnerUpGame, ...others] = sortedGames;
 
