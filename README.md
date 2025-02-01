@@ -30,9 +30,6 @@ https://imgur.com/a/6WkeYTn
 
 https://imgur.com/gallery/codepath-website-walkthrough-6WkeYTn
 
-
-![Imgur Image](https://i.imgur.com/vCXEG4B.mp4)
-
 https://www.loom.com/share/57f6d5c4ae4c4f4082e3bacce8ae5097?sid=5cbe60c1-6f06-4f5d-a214-378b35ebfaf3
 
 <!-- Replace this with whatever GIF tool you used! -->
