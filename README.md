@@ -28,8 +28,10 @@ Website Walkthrough for CodePath Pre-Work - Watch Video
 
 https://imgur.com/a/6WkeYTn
 
+https://imgur.com/gallery/codepath-website-walkthrough-6WkeYTn
 
-![Imgur Image](http://i.imgur.com/6WkeYTn.jpg)
+
+![Imgur Image](http://i.imgur.com/codepath-website-walkthrough-6WkeYTn)
 
 https://www.loom.com/share/57f6d5c4ae4c4f4082e3bacce8ae5097?sid=5cbe60c1-6f06-4f5d-a214-378b35ebfaf3
 
