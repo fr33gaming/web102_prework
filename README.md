@@ -25,6 +25,8 @@ The following **optional** features are implemented:
 
 Website Walkthrough for CodePath Pre-Work - Watch Video
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/6WkeYTn" data-context="false" ><a href="//imgur.com/a/6WkeYTn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c
 
 <!-- Replace this with whatever GIF tool you used! -->
