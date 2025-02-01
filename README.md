@@ -25,9 +25,10 @@ The following **optional** features are implemented:
 
 Website Walkthrough for CodePath Pre-Work - Watch Video
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/6WkeYTn" data-context="false" ><a href="//imgur.com/a/6WkeYTn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-https://www.loom.com/share/10b0ba190f8245d99cb38147ee86d1bc?sid=dfb5c5dd-aad6-401d-a194-a57fc2f0ff9c
+https://imgur.com/a/6WkeYTn
+
+https://www.loom.com/share/57f6d5c4ae4c4f4082e3bacce8ae5097?sid=5cbe60c1-6f06-4f5d-a214-378b35ebfaf3
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Loom
