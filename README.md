@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Website Walkthrough for CodePath Pre-Work - Watch Video
 
-<img src='./CodePath Website Walkthrough - Imgur.gif'>
+![CodePath Website Walkthrough - Imgur](https://github.com/user-attachments/assets/552dd54a-578c-49fd-8530-5422fee54c7f)
+
 https://imgur.com/a/6WkeYTn
 
 https://imgur.com/gallery/codepath-website-walkthrough-6WkeYTn
