@@ -30,6 +30,8 @@ https://imgur.com/a/6WkeYTn
 
 https://imgur.com/gallery/codepath-website-walkthrough-6WkeYTn
 
+https://i.imgur.com/codepath-website-walkthrough-6WkeYTn.gif
+
 
 ![Imgur Image](http://i.imgur.com/codepath-website-walkthrough-6WkeYTn)
 
