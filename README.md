@@ -38,7 +38,7 @@ Video created with Loom
 
 Describe any challenges encountered while building the app.
 
-The Overall process was pretty simple. The portions that I found challenging was incorporating Javascript into the website. In the previous course we only touched the surface. One challenge that I experienced was being able to CSS to style various parts of the website. When using some flexbox features I was met with unexpected results. It took me some time to play around with some things and get the results that I wanted. 
+The Overall process was pretty simple. The portion that I found challenging was incorporating Javascript into the website. In the previous course we only touched the surface. One challenge that I experienced was being able to apply CSS to style various parts of the website. When using some flexbox features I was met with unexpected results. It took me some time to play around with some things and get the results that I wanted. Eventually I think that I got the hang of Javascript and was able to produce excellent results. 
 
 ## License
 
